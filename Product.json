@@ -1,4 +1,4 @@
-{
+
   [
     { "id": 1, "name": "Product 1","price": "$56", "image": "https://via.placeholder.com/150x100", "description":"Product 1 is used for animals" },
     { "id": 2, "title": "Product 2","price": "$34", "image": "https://via.placeholder.com/150x100", "description":"Product 2 is used for Hen" },
@@ -9,4 +9,4 @@
     { "id": 7, "title": "Product 7","price": "$243", "image": "https://via.placeholder.com/150x100", "description":"Product 7 is used in ships" },
     { "id": 8, "title": "Product 8","price": "$73", "image": "https://via.placeholder.com/150x100", "description":"Product 8 is used for throwing ball" }
   ]
-}
+
